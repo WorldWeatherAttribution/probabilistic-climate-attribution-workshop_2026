@@ -11,7 +11,7 @@ The workshop will be a mix of lectures and guided practical sessions. We will be
 
 | Time | Activity |
 |------------------------------------|------------------------------------|
-| 8:30 - 9:00 | Check in and breakfast |
+| 8:30 - 9:00 | Check in and coffee |
 | 9:00 - 9:30 | Welcome and introductions |
 | 9:30 - 10:30 | Introduction to attribution (Lecture) |
 | 10:30 - 10:45 | Break |
@@ -28,7 +28,7 @@ The workshop will be a mix of lectures and guided practical sessions. We will be
 
 | Time | Activity |
 |------------------------------------|------------------------------------|
-| 8:30 - 9:00 | Check in and breakfast |
+| 8:30 - 9:00 | Check in and coffee |
 | 9:00 - 9:15 | Recap of day 1 |
 | 9:15 - 10:00 | Methods for probabilistic attribution (Lecture) |
 | 10:00 - 10:30 | Introduction to probabilistic attribution tools (Lecture) |
