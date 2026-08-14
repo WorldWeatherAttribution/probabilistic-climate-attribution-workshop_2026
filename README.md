@@ -36,8 +36,9 @@ The workshop will be a mix of lectures and guided practical sessions. We will be
 | 10:45 - 11:30 | Fitting statistical models (Lab) |
 | 11:30 - 12:30 | Sensitivity to event choices (Lab) |
 | 12:30 - 13:30 | Lunch |
-| 13:30 - 14:30 | Climate models and synthesis of results (Lecture) |
-| 14:30 - 15:00 | Finalise statistical analysis (Lab) |
+| 13:30 - 14:00 | Climate models and synthesis of results (Lecture) |
+| 14:00 - 14:30 | Finalise statistical analysis (Lab) |
+| 14:30 - 15:00 | Compound event attribution (Lecture) |
 | 15:00 - 15:15 | Break |
 | 15:15 - 15:45 | Producing counterfactuals for impact modelling (Lecture) |
 | 15:45 - 16:15 | Impact attribution, applications, limitations and current research directions (Lecture) |
