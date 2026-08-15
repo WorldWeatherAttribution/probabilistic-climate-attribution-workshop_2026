@@ -15,8 +15,8 @@ The workshop will be a mix of lectures and guided practical sessions. We will be
 | 9:00 - 9:30 | Welcome and introductions |
 | 9:30 - 10:30 | Introduction to attribution (Lecture) |
 | 10:30 - 10:45 | Break |
-| 10:45 - 11:00 | Downloading relevant climate data (Lab) |
-| 11:00 - 12:30 | Exploring data and identifying the event of interest (Lab) |
+| 10:45 - 12:15 | Exploring data and identifying the event of interest (Lab) |
+| 12:15 - 12:30 | Downloading relevant climate data (Lab) |
 | 12:30 - 13:30 | Lunch |
 | 13:30 - 14:00 | Why is event definition non-trivial? (Group discussion) |
 | 14:00 - 15:00 | Considerations for different event types / attribution types (Lecture) |
