@@ -34,7 +34,7 @@ The workshop will be a mix of lectures and guided practical sessions. We will be
 | 10:00 - 10:30 | Introduction to probabilistic attribution tools (Lecture) |
 | 10:30 - 10:45 | Break |
 | 10:45 - 11:30 | Fitting statistical models (Lab) |
-| 11:30 - 12:30 | Sensitivity to event choices (Lab) |
+| 11:30 - 12:30 | Sensitivity to event choices (Group discussion) |
 | 12:30 - 13:30 | Lunch |
 | 13:30 - 14:00 | Climate models and synthesis of results (Lecture) |
 | 14:00 - 14:30 | Finalise statistical analysis (Lab) |
