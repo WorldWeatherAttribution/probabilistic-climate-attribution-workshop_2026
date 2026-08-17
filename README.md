@@ -49,3 +49,6 @@ The workshop will be a mix of lectures and guided practical sessions. We will be
 WWA's website (lot of examples of previous attribution studies): <https://www.worldweatherattribution.org/>
 
 KNMI's Climate Explorer tool (useful source for weather & climate data): <https://climexp.knmi.nl/>
+
+List of event triggers: https://docs.google.com/document/d/10FlB-4xc4fhjl-diG2x8cDV6AEJ_dVyAnsOm4P2XJpY/edit?usp=sharing
+
