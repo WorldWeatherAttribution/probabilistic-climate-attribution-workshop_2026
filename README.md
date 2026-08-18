@@ -44,6 +44,11 @@ The workshop will be a mix of lectures and guided practical sessions. We will be
 | 16:15 - 17:00 | Summarise findings and potential future work (Group discussion) |
 
 
+## Link to Google drive for file sharing
+
+https://drive.google.com/drive/folders/0ByJqBiclYEKnalBkbDVUVlJjdHc?resourcekey=0-v8n_QFFagaajvsgnb5zC_Q&usp=sharing
+
+
 ## Useful links
 
 WWA's website (lot of examples of previous attribution studies): <https://www.worldweatherattribution.org/>
