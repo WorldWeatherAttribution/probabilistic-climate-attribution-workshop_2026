@@ -34,12 +34,12 @@ The workshop will be a mix of lectures and guided practical sessions. We will be
 | 10:00 - 10:30 | Introduction to probabilistic attribution tools (Lecture) |
 | 10:30 - 10:45 | Break |
 | 10:45 - 11:30 | Fitting statistical models (Lab) |
-| 11:30 - 12:30 | Sensitivity to event choices (Group discussion) |
+| 11:30 - 12:30 | Finalise statistical analysis (Lab)|
 | 12:30 - 13:30 | Lunch |
 | 13:30 - 14:00 | Climate models and synthesis of results (Lecture) |
-| 14:00 - 15:00 | Finalise statistical analysis (Lab) |
+| 14:00 - 15:00 | Sensitivity to event choices (Group discussion)  |
 | 15:00 - 15:15 | Break |
-| 15:15 - 15:45 | Compound event attribution (Lecture) |
+| 15:15 - 15:45 | Compound events & impact attribution (Lecture) |
 | 15:45 - 16:15 | Impact attribution, applications, limitations and current research directions (Lecture) |
 | 16:15 - 17:00 | Summarise findings and potential future work (Group discussion) |
 
